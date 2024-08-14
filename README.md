@@ -10,7 +10,6 @@ I'm a Backend developer who is enthusiastic, self-motivated, reliable, responsib
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=looongtom&theme=dark&hide_border=true" alt="looongtom" height=150/>
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=go,java,aws,bootstrap,cs,docker,gitlab,graphql,kafka,kubernetes,mongodb,postgres,postman,redis,spring,&theme=light)](https://skillicons.dev)
 
 ### 🖥️ Programing language
 [![My Skills](https://skillicons.dev/icons?i=go,java&theme=light)](https://skillicons.dev)
